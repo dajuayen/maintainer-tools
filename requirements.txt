@@ -1,9 +1,9 @@
 ERPpeek==1.6.1
-PyYAML==3.11
+PyYAML==5.4
 argparse==1.2.1
 bzr==2.6.0
 github3.py==0.9.4
-requests==2.3.0
+requests==2.32.2
 uritemplate.py==0.3.0
 inflection==0.3.1
 autopep8==1.2
